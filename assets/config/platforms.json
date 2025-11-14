@@ -1,0 +1,30 @@
+{
+  "platforms": [
+    {
+      "id": "left_top",
+      "position": { "x": 150, "y": 200 },
+      "width": 200,
+      "height": 20,
+      "allowPassThrough": true,
+      "sprite": "platform_stone"
+    },
+    {
+      "id": "center_bottom",
+      "position": { "x": 350, "y": 400 },
+      "width": 300,
+      "height": 20,
+      "allowPassThrough": true,
+      "sprite": "platform_stone"
+    },
+    {
+      "id": "right_top",
+      "position": { "x": 700, "y": 200 },
+      "width": 200,
+      "height": 20,
+      "allowPassThrough": true,
+      "sprite": "platform_stone"
+    }
+  ],
+  "screenWidth": 1024,
+  "screenHeight": 768
+}

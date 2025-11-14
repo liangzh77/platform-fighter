@@ -1,0 +1,42 @@
+{
+  "characterA": {
+    "maxHealth": 100,
+    "maxRespawns": 3,
+    "invincibleDuration": 3.0,
+    "moveSpeed": 200,
+    "jumpForce": 700,
+    "sprite": "characterA",
+    "hitbox": {
+      "width": 40,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": -60
+    },
+    "skills": [
+      { "skillId": "melee", "key": 1 },
+      { "skillId": "projectile", "key": 2 },
+      { "skillId": "swap", "key": 3 },
+      { "skillId": "ultimateA", "key": 4 }
+    ]
+  },
+  "characterB": {
+    "maxHealth": 100,
+    "maxRespawns": 3,
+    "invincibleDuration": 3.0,
+    "moveSpeed": 200,
+    "jumpForce": 700,
+    "sprite": "characterB",
+    "hitbox": {
+      "width": 40,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": -60
+    },
+    "skills": [
+      { "skillId": "melee", "key": 1 },
+      { "skillId": "projectile", "key": 2 },
+      { "skillId": "swap", "key": 3 },
+      { "skillId": "ultimateB", "key": 4 }
+    ]
+  }
+}

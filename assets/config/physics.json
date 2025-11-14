@@ -1,0 +1,16 @@
+{
+  "gravity": 980,
+  "terminalVelocity": 1000,
+  "friction": 0.8,
+  "knockback": {
+    "force": 100,
+    "duration": 0.3
+  },
+  "stabilizationTime": 0.5,
+  "screenBounds": {
+    "left": 0,
+    "right": 1024,
+    "top": 0,
+    "bottom": 768
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "player1": {
+    "moveLeft": "KeyA",
+    "moveRight": "KeyD",
+    "jump": "KeyW",
+    "skill1": "KeyQ",
+    "skill2": "KeyE",
+    "skill3": "KeyR",
+    "skill4": "KeyF"
+  },
+  "player2": {
+    "moveLeft": "ArrowLeft",
+    "moveRight": "ArrowRight",
+    "jump": "ArrowUp",
+    "skill1": "KeyU",
+    "skill2": "KeyI",
+    "skill3": "KeyO",
+    "skill4": "KeyP"
+  },
+  "debug": {
+    "toggleDebugUI": "F12",
+    "godMode": "F1",
+    "resetCooldowns": "F2",
+    "showHitboxes": "F3",
+    "showSkillRanges": "F4"
+  }
+}

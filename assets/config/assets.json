@@ -1,0 +1,78 @@
+{
+  "images": [
+    {
+      "name": "characterA",
+      "path": "/assets/images/characters/character_a.png"
+    },
+    {
+      "name": "characterB",
+      "path": "/assets/images/characters/character_b.png"
+    },
+    {
+      "name": "platform_stone",
+      "path": "/assets/images/platforms/platform.png"
+    },
+    {
+      "name": "melee_effect",
+      "path": "/assets/images/effects/melee.png"
+    },
+    {
+      "name": "projectile_effect",
+      "path": "/assets/images/effects/projectile.png"
+    },
+    {
+      "name": "swap_effect",
+      "path": "/assets/images/effects/swap.png"
+    },
+    {
+      "name": "ultimate_a_effect",
+      "path": "/assets/images/effects/ultimate_a.png"
+    },
+    {
+      "name": "ultimate_b_effect",
+      "path": "/assets/images/effects/ultimate_b.png"
+    },
+    {
+      "name": "icon_melee",
+      "path": "/assets/images/ui/skill_1.png"
+    },
+    {
+      "name": "icon_projectile",
+      "path": "/assets/images/ui/skill_2.png"
+    },
+    {
+      "name": "icon_swap",
+      "path": "/assets/images/ui/skill_3.png"
+    },
+    {
+      "name": "icon_ultimate_a",
+      "path": "/assets/images/ui/skill_4a.png"
+    },
+    {
+      "name": "icon_ultimate_b",
+      "path": "/assets/images/ui/skill_4b.png"
+    }
+  ],
+  "audio": [
+    {
+      "name": "hit_sound",
+      "path": "/assets/audio/sfx/hit.mp3"
+    },
+    {
+      "name": "jump_sound",
+      "path": "/assets/audio/sfx/jump.mp3"
+    },
+    {
+      "name": "skill_sound",
+      "path": "/assets/audio/sfx/skill.mp3"
+    },
+    {
+      "name": "death_sound",
+      "path": "/assets/audio/sfx/death.mp3"
+    },
+    {
+      "name": "victory_sound",
+      "path": "/assets/audio/sfx/victory.mp3"
+    }
+  ]
+}

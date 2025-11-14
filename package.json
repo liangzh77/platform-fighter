@@ -1,0 +1,37 @@
+{
+  "name": "gravity-platform-fighter",
+  "version": "0.1.0",
+  "description": "重力平台对战游戏 - 双人本地对战的平台跳跃格斗游戏",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:coverage": "vitest --coverage",
+    "lint": "eslint src --ext .js",
+    "lint:fix": "eslint src --ext .js --fix",
+    "format": "prettier --write \"src/**/*.js\" \"tests/**/*.js\""
+  },
+  "keywords": [
+    "game",
+    "platform",
+    "fighter",
+    "gravity",
+    "multiplayer",
+    "html5",
+    "canvas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vitest": "^1.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "@vitest/coverage-v8": "^1.0.0"
+  },
+  "dependencies": {}
+}
